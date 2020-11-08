@@ -1,10 +1,40 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: University of Central Florida
+  dates: 2017 - 2019
+  qualification: MS Computer Science
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+Graduate Teaching Assistant, University of Central Florida:
+Aug 2017 - Jan 2018
+Worked with Professor Mike McAlpine and Assisted in building coursework and grading for COP-4600 Fall’17 (Operating Systems).
+I designed programming assignments for a class of 175 students in Java and C sharp. Assisted students with assignments and understanding Operating System concepts.
+Tools Used : Webcourses@UCF grading tool, excel.
+Languages : JAVA , C#
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+Research Assistant, Institute for simulation and training (IST), University of Central Florida :
+Nov 2017 - Jan 2018
+I worked on user behaviour analysis in a social network for a DARPA funded project at IST under the Guidance of Dr.Wingyan Chung. My task was to collect data from the github api in json format, convert this data into a dataframe and store it in csv format. I worked on modelling and simulation of user- repository interactions such as fork, push, pull, commit, watch and delete operations. Used Repast Simphony tool in Java to build an Agent-Based Modelling system for simulation of interactions between agents.
+Tools Used : Repast Simphony, Bash shell, R
+Languages: Java, Python 3.5, Scala
+
+Graduate Research Assistant | Computer Architecture and Storage System (CASS) laboratory
+Jan 2018 – May 2018
+
+● Seq2Seq learning for I/O trace analysis.
+● Content-based Image retrieval - Deep feature based on convolutional auto-encoder for compact semantic hashing. [(Submitted for the ACM SIGGRAPH / Eurographics Symposium on Computer
+Animation (SCA)]
+● Working on building Deep Learning models and conducting experiments for Lab projects.
+● Setting up High-performance computing clusters.
+
+Tools Used : Jupyter Notebook, Tensorflow, Seq2seq, NLTK( Natural Language Toolkit), Python, Pandas, makefile, LaTex.
+
+Paper: Deep feature based on convolutional auto-encoder for compact semantic hashing. (Submitted for the ACM SIGGRAPH / Eurographics Symposium on Computer Animation (SCA) ) 
+Abstract - For content-based image retrieval, a good presentation is crucial. Nowadays, as deep learning models can be used to generate an excellent presentation, it has been extensively investigated and widely used in research systems and commercial production systems. However, the deep representation (deep feature) is still too large. Compared with directly using deep representation, binary code can reduce significant storage overhead. Meanwhile, bitwise operations for binary code can dramatically fasten the computation. There exist some schemes used to convert the deep feature to binary code, but all of them directly applied the last layer of the connection layers, which exhibit global feature and discriminating features. To achieve deep generative feature and avoid destroying the image locality, we aim to construct the binary hash code based on convolutional auto-encoders.
+The paper can be viewed https://www.overleaf.com/read/ythmmqbccscd.
+I was involved in designing the convolutional autoencoder train the given datasets (MNIST, CIFAR-10 and NUS-WIDE), implementing a hashing algorithm to hash image features to binary hash codes, unsupervised learning of these codes using encoder-decoder network and again supervised learning of close codes using a restricted boltzmann machine(RBM) from the convolutional layers. For Image retrieval our model shows promising performance boosts over state of the art techniques such as LSH, ITQ, etc. Detailed comparison results are shown in the form of Graphs and tables (MaP scores).
+Tools Used : Tensorflow, CAFFE, MATLAB.
+Languages : Python 3.5 , C++
+
+
+
